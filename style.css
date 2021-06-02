@@ -24,12 +24,9 @@ a {
 
 #navigation {
   display: flex;
-  
-}
-
-.nav-bar {
   float: right;
 }
+
 
 .main-head {
   text-align: center;
