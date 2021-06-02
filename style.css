@@ -27,3 +27,12 @@ a {
   
 }
 
+.nav-bar {
+  float: right;
+}
+
+.main-head {
+  text-align: center;
+  position: relative;
+  top: 80px;
+}
