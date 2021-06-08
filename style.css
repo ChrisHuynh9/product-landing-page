@@ -9,6 +9,11 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+.container {
+  display: grid;
+  grid-template-rows: 1fr 2fr;
+}
+
 ul {
   list-style-type: none;
 }
@@ -23,8 +28,7 @@ a {
 }
 
 #navigation {
-  display: flex;
-  float: right;
+ 
 }
 
 
